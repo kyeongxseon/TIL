@@ -1,6 +1,0 @@
-path: /content/drive/MyDrive/AIVLESCHOOL/Myproject
-train: images/train
-
-# Classes
-nc: 3
-names: ['captain', 'ironman', 'thor']
