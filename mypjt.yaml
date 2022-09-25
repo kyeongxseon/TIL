@@ -1,0 +1,6 @@
+path: /content/datasets/avengers
+train: images/train
+
+# Classes
+nc: 3
+names: ['captain', 'ironman', 'thor']
